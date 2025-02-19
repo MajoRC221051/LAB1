@@ -1,0 +1,22 @@
+langchain ==0.3.6
+langchain-experimental ==0.3.2
+langchainhub
+langchain-community
+langchain-text-splitters
+langchain-openai
+Langsmith
+langchain-core
+langgraph
+langchain-pinecone
+requests
+black
+openai
+python-dotenv
+pinecone
+beautifulsoup4
+altair<5
+firecrawl-py
+
+streamlit
+pandas
+tabulate
